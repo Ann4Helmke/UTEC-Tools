@@ -1,4 +1,4 @@
-"""Seite Grafische Datenauswertung"""  # noqa: N999
+"""Seite Grafische Datenauswertung und so"""  # noqa: N999
 
 from typing import Any, Literal
 
